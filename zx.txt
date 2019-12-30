@@ -1,4 +1,5 @@
 print('hello')
 num =1
 num = 20
-num = 500
+num = 50
+num = 600
